@@ -1,6 +1,8 @@
 docker-odoo-nginx
 =================
 
+[![Join the chat at https://gitter.im/DPCloudX/docker-odoo-nginx](https://badges.gitter.im/DPCloudX/docker-odoo-nginx.svg)](https://gitter.im/DPCloudX/docker-odoo-nginx?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 NGINX Reverse Proxy
 -------------------
 
